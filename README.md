@@ -18,7 +18,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Phantom-hacker404"><img title="Owner" src="https://img.shields.io/badge/Owner-King-Phantom-yellow.svg?style=for-the-badge&logo=github" width="200px"
+<a href="https://github.com/Phantom-hacker404"><img title="Owner" src="https://img.shields.io/badge/Owner-Phantom-hacker404-blue.svg?style=for-the-badge&logo=github" width="200px"
 
 </p>
 
