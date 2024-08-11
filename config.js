@@ -3,9 +3,9 @@ const chalk = require('chalk')
 
 // ganti info bot dibawah ini
 global.botName = "Sniper v4"
-global.ownerName = "King Phantom"
-global.botNumber = "234XXXX"
-global.devNumber = ["234XXXX"]
+global.ownerName = "❦★𝘿𝘼𝙍𝙆★❦†𝙕𝙀𝙍𝙊𝘾𝙊𝙊𝙇†𓃵"
+global.botNumber = "263XXXX"
+global.devNumber = ["263XXXX"]
 
 global.Auto_Typing = false // auto typing
 global.Auto_Recording = false // auto recording
